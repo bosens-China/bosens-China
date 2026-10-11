@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Bosens
 
-> Frontend / Fullstack Developer  
-> Vue · React · Next.js · TypeScript · Python · Node.js  
-> AI Agent · LangChain · LangGraph · Dify · n8n  
+> Frontend / AI Application Developer  
+> Vue · React · Node.js · Python  
+> AI Agent · LangChain · LangGraph · Deep Agents  
 > 📍 Hefei, China 🇨🇳
 
 ## 📫 联系我
@@ -20,28 +20,24 @@
 
 你可以喊我小蜗，或者小 🐏，我都会觉得挺亲切的。
 
-我来自安徽，目前一直在合肥工作。
+我来自安徽，目前一直在合肥工作，主要关注 AI 应用开发方向的机会。
 
 ## 🧰 技术栈
 
 ### 前端
 
 - Vue
-- React / Next.js
-- TypeScript
+- React
+- Node.js
 
 ### 后端
 
 - Python
-- Node.js
 
 ### AI / Agent 方向
 
 - LangChain + LangGraph
-
-- Dify / Coze / n8n
-
-  > 日常使用比较多，基本算是手拿把恰 😄
+- Deep Agents
 
 ## 🧩 一些作品
 
@@ -54,17 +50,24 @@
 3. [从夯到拉](https://github.com/bosens-China/HangOrLa)  
    去年「从夯到拉」的排行一度很流行，于是做了这个项目，纯粹提供给大家玩一玩。
 
-4. ……
+4. [ai-i18n](https://github.com/bosens-China/ai-i18n)  
+   面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。首个正式版还在准备中。
 
-还有一些仓库是我在项目和学习过程中做的开源项目，但是当前的 AI 浪潮下以及还有更成熟的替代品下，就没有列举出来了。
+5. [Loci](https://github.com/bosens-China/loci)  
+   为 AI Agent 准备的本地文档知识库，把公开技术文档收录为 Markdown，通过 Web、CLI 和 MCP 搜索与阅读。
+
+6. [GitFeed](https://github.com/bosens-China/GitFeed)  
+   一个本地 Git 周报桌面工具，整理多个仓库的提交记录，生成可以直接复制的 Markdown 周报，支持 macOS、Windows 和 Linux。
+
+还有一些仓库是我在项目和学习过程中做的开源项目，这里就先列出其中比较有代表性的一些。
 
 ## 🏂 近期想认真练习的爱好
 
-1. 滑雪
-2. 自由泳
-3. 路冲
+1. 滑雪，还在练习中
+2. 自由泳，已经学会了
+3. 健身，一直在坚持，也有了一些成效
 
 ## 🎯 2026 年的一些小目标
 
-1. 把体重调整到 78kg 左右
-2. 系统地重新学习和提升英语
+1. 把体重调整到 78kg 左右，还在进行中
+2. 系统地重新学习和提升英语，也在进行中
