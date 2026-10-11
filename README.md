@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bosens
 
 > Frontend / AI Application Developer  
-> Vue · React · Node.js · Python  
+> Vue · React · TypeScript · Node.js · Python  
 > AI Agent · LangChain · LangGraph · Deep Agents  
 > 📍 Hefei, China 🇨🇳
 
@@ -28,6 +28,7 @@
 
 - Vue
 - React
+- TypeScript
 - Node.js
 
 ### 后端
