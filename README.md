@@ -52,7 +52,7 @@
    去年「从夯到拉」的排行一度很流行，于是做了这个项目，纯粹提供给大家玩一玩。
 
 4. [ai-i18n](https://github.com/bosens-China/ai-i18n)  
-   面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。首个正式版还在准备中。
+   面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。已发布 1.0.0 正式版。
 
 5. [Loci](https://github.com/bosens-China/loci)  
    为 AI Agent 准备的本地文档知识库，把公开技术文档收录为 Markdown，通过 Web、CLI 和 MCP 搜索与阅读。
