@@ -48,8 +48,8 @@
 2. [TypeScript 手册](https://github.com/bosens-China/Typescript-manual)  
    社区维护的中文 TypeScript 手册，我使用 VuePress 进行了重建，主要是为了更好的阅读体验。
 
-3. [从夯到拉](https://github.com/bosens-China/HangOrLa)  
-   去年「从夯到拉」的排行一度很流行，于是做了这个项目，纯粹提供给大家玩一玩。
+3. [ResumeFlow](https://github.com/bosens-China/ResumeFlow)  
+   一个 Markdown 优先的简历工具，支持编辑、多语言、样式定制、PDF / Markdown 导出与备份，也可以通过 HTTP API 或 MCP 交给 AI Agent 管理。已发布 1.2.0。
 
 4. [ai-i18n](https://github.com/bosens-China/ai-i18n)  
    面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。核心 Vite 插件已发布 1.1.0。
