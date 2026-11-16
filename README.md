@@ -52,7 +52,7 @@
    一个 Markdown 优先的简历工具，支持编辑、多语言、样式定制、PDF / Markdown 导出与备份，也可以通过 HTTP API 或 MCP 交给 AI Agent 管理。已发布 1.2.0。
 
 4. [ai-i18n](https://github.com/bosens-China/ai-i18n)  
-   面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。核心 Vite 插件已发布 1.1.0。
+   面向 Vite 应用的 AI 国际化工具，提取代码中的文案，结合模型或 MCP 完成翻译，支持 Vue、React 等项目。核心 Vite 插件已发布 2.0.0。
 
 5. [Loci](https://github.com/bosens-China/loci)  
    为 AI Agent 准备的本地文档知识库，把公开技术文档收录为 Markdown，通过 Web、CLI 和 MCP 搜索与阅读。
