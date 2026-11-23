@@ -45,8 +45,8 @@
 1. [Python 之美：一门语言的温柔与克制](https://github.com/bosens-China/python-beauty)  
    一本结合 AI 一起完成的电子书，希望通过它，重新认识当下的 Python。
 
-2. [TypeScript 手册](https://github.com/bosens-China/Typescript-manual)  
-   社区维护的中文 TypeScript 手册，我使用 VuePress 进行了重建，主要是为了更好的阅读体验。
+2. [拾光滤镜](https://github.com/bosens-China/film-studio)  
+   一个本地优先的浏览器照片滤镜工作台，支持批量导入、胶片 LUT、人像优化、对比预览和批量导出，也支持安装为 PWA。
 
 3. [ResumeFlow](https://github.com/bosens-China/ResumeFlow)  
    一个 Markdown 优先的简历工具，支持编辑、多语言、样式定制、PDF / Markdown 导出与备份，也可以通过 HTTP API 或 MCP 交给 AI Agent 管理。已发布 1.2.0。
